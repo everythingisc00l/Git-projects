@@ -2,4 +2,4 @@
 
 Registration bot for events (on aiogram)
 
-on work
+on in progress
