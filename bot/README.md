@@ -12,7 +12,7 @@ User's menu:
 - Button with link to main telegram channel
 - Button with link to web magazine
 - Button with online-registration to events (written registered users in table of db)
-- Button with message of donate requisites bank cards
+- Button with message of donate with requisites of bank cards
 
 Admin's menu:
 
