@@ -252,7 +252,7 @@ async def input_name(message: types.CallbackQuery):
         if not db.exists_list(message.message.chat.id):
             await State.set(Form.firstname) # вводим имя
             await message.answer(text='')
-            await bot.send_message(chat_id=message.message.chat.id, text='VOLNA 1.06.22 @ Cargocult\n \nДля регистрации введите своё имя.')
+            await bot.send_message(chat_id=message.message.chat.id, text='Для регистрации введите своё имя.')
         else:
             await message.answer('Вы уже зарегистрированы')
         
