@@ -7,14 +7,14 @@ in progress
 
 Realised functionality.
 
-User's menu:
+User menu:
 
 - Button with link to main telegram channel
 - Button with link to web magazine
 - Button with online-registration to events (written registered users in table of db)
 - Button with message of donate with requisites of bank cards
 
-Admin's menu:
+Admin menu:
 
 - Button to see list of all registered users form db
 - Randomizer button (Generator of random winner from list of registered users)
@@ -25,12 +25,12 @@ Admin's menu:
 
 Functionality in progress:
 
-User's menu:
+User menu:
 
 - Button of free registration to events for first n-users
 - Add buttons 'Back' and edit menu structure: use method of updating menu after clicking on every buttons.
 
-Admin's menu:
+Admin menu:
 
 - Add column with date / time to tables test, link for written date / time of users (for example: 17:26:31 | 19.05.22)
 - Add column with OS / IP users to tables test, link for written OS / IP users (for example: MacOS Catalina | 176.115.146.63)
