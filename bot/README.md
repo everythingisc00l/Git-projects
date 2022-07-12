@@ -1,30 +1,29 @@
 # app
 
-Registration bot for events (on aiogram)
+Bot for easy online-registration users to events (on telegram)
 
 in progress
 
 
+Realised functionality.
 
-Реализованный функционал ниже.
+User's menu:
 
-Меню пользователя: 
+- Button with link to main telegram channel
+- Button with link to web magazine
+- Button with online-registration to events (written registered users in table of db)
+- Button with message of donate requisites bank cards
 
-- Просмотр новостей основного телеграм-канала
-- Линк на сторонний сайт-магазин
-- Возможность онлайн-регистрации на мероприятия (запись пользователей в таблицу базы данных)
-- Кнопка с реквизитами для донатов
+Admin's menu:
 
-Меню администратора:
-
-- Кнопка показа списка зарегистрированных пользователей (список подтягивается из бд и форматируется в приятный человеку вид)
-- Кнопка запуска рандомайзера (Генератор выбора случайного пользователя из всех зарегистрированных, для проведения розыгрышей прямо из бота)
-- Кнопка выгрузки всего файла базы данных
-- Кнопка отключения / включения онлайн-регистрации (запись состояния регистрации в бд)
-- Кнопка изменения текста-приветствия при регистрации (запись состояния текста в бд)
+- Button to see list of all registered users form db
+- Randomizer button (Generator of random winner from list of registered users)
+- Download main db file button
+- Button ON / OFF online-registration (written status registration to db)
+- Edit first message from registration button (written status registration to db)
 
 
-Функционал в разработке:
+Functionality in progress:
 
 Меню пользователя: 
 
