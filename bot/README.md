@@ -1,4 +1,4 @@
-# app
+# Telegram bot
 
 Bot for easy online-registration users to events (on telegram)
 
