@@ -136,7 +136,7 @@ async def savelist(message: types.CallbackQuery):
     if message.from_user.id == ADMIN:
         if message.data == 'savebutton': # bot send database
             print('loading database')
-            await bot.send_document(chat_id=message.message.chat.id, document=open('/Users/artem/Documents/Python projects/tgbot1/app/data.db', 'rb'))
+            await bot.send_document(chat_id=message.message.chat.id, document=open('/Users/user/Documents/app/data.db', 'rb'))
             print('successfull')
             await message.answer() 
         
