@@ -25,15 +25,15 @@ Admin's menu:
 
 Functionality in progress:
 
-Меню пользователя: 
+User's menu:
 
-- Кнопка бесплатной регистрации на событие для первых n-человек
-- Добавить кнопки "Назад" и сделать ответы на нажатия кнопки пользователя методом обновления меню
+- Button of free registration to events for first n-users
+- Add buttons 'Back' and edit menu structure: use method of updating menu after clicking on every buttons.
 
-Меню администратора:
+Admin's menu:
 
-- Добавить колонку с датой и временем в таблицы test, link для записи даты и времени регистрации пользователя (например: 17:26:31 | 19.05.22)
-- Добавить колонку с отображением OS и ip пользователя в таблицы test, link для записи OS и ip пользователя (например: MacOS Catalina | 176.115.146.63)
-- Добавить в кнопку закрытия регистрации функцию автоматизированной закрытии регистрации и отправки сообщения в лс администратора списка зарегистрировавшихся, предусмотреть возможность ввода времени и даты закрытия регистрации;
+- Add column with date / time to tables test, link for written date / time of users (for example: 17:26:31 | 19.05.22)
+- Add column with OS / IP users to tables test, link for written OS / IP users (for example: MacOS Catalina | 176.115.146.63)
+- Add to button of ON / OFF registration function with auto-close registration and send message with list of registered users with edit time and date of closing registration.
 
 
