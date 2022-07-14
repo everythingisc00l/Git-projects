@@ -16,7 +16,7 @@ User menu:
 
 Admin menu:
 
-- Button to see list of all registered users form db
+- Button to see list of all registered users from db
 - Randomizer button (Generator of random winner from list of registered users)
 - Download main db file button
 - Button ON / OFF online-registration (written status registration to db)
